@@ -1,0 +1,3 @@
+[submodule "Labacore"]
+	path = Labacore
+	url = git@github.com:Soromytko/Labacore.git
